@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+.slick-center .custom-slide {
+    border-left: 1px solid #e5e7eb; /* Replace with Tailwind's border-gray-200 equivalent */
+    border-right: 1px solid #e5e7eb;
+  }
+  
+@font-face {
+  font-family: 'Poppins';
+  src: url('./assets/Fonts/Poppins-ExtraBold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Hide number input arrows */
